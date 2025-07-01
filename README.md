@@ -1,1 +1,1 @@
-# docusaurus-llms-generator
+# Docusaurus llms.txt (and llms-full.txt) Generator
